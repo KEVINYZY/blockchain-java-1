@@ -1,4 +1,4 @@
-## 基于Java语言构建区块链
+zd## 基于Java语言构建区块链
 [![Build Status](https://travis-ci.org/wangweiX/blockchain-java.svg?branch=master)](https://travis-ci.org/wangweiX/blockchain-java)
 
 > 本系列文章的思路均来自：https://github.com/Jeiwan/blockchain_go
